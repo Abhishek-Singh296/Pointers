@@ -1,7 +1,8 @@
 # Pointers
 Pointers in C are used to store the address of variables or a memory location. This variable can be of any data type i.e, int, char, function, array, or any other pointer. Pointers are one of the core concepts of C programming language that provides low-level memory access and facilitates dynamic memory allocation.A pointer is a derived data type in C that can store the address of other variables or a memory. We can access and manipulate the data stored in that memory location using pointers.There are a few important operations, which we do with the help of pointers very frequently. (a) We define a pointer variable, (b) assign the address of a variable to a pointer and (c) finally access the value at the address available in the pointer variable. This is done by using unary operator * that returns the value of the variable located at the address specified by its operand.
 
-[![How-Pointer-Works-In-C](https://user-images.githubusercontent.com/113619312/234043388-b2bc7f9d-a0b8-4285-838e-9e356d444793.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fcpp-pointers%2F&psig=AOvVaw2IFy_wQAj7pk2XN291sBTi&ust=1682436856335000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi6_uvrwv4CFQAAAAAdAAAAABAE)
+
+![How-Pointer-Works-In-C](https://user-images.githubusercontent.com/113619312/234046024-8c0e663e-8436-40e5-a292-34a9f62ff516.png)
 
 ---
 
