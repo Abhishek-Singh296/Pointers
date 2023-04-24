@@ -13,12 +13,12 @@ datatype * pointer_name;
 To use pointers in C, we must understand below two operators:
 
 
-__1. Address of Operator__
+__1. Address of Operator:__
 The addressof operator ( & ) is a unary operator that returns the address of its operand. Its operand can be a variable, function, array, structure, etc.
 ```
 &variable_name;
 ```
 
 
-__2. Dereferencing Operator__
+__2. Dereferencing Operator:__
 The dereference operator ( * ), also known as the indirection operator is a unary operator. It is used in pointer declaration and dereferencing.
