@@ -30,3 +30,24 @@ data_type * pointer_name;
 
 ## __Code__
 ```
+#include <stdio.h>
+
+int main()
+{
+	int x=4;
+	int *p;
+	p=&x;
+	//*p=*p+2;
+	printf("%d\n", *p);//value at address pointed by p
+	printf("%d\n", x);//value of x
+	printf("%d\n", &x);//memory address of variable x
+	printf("%d\n", p);//stores the value of p which is memory address of variable x
+	printf("%d\n", *p);//memory address of p
+}
+```
+
+---
+
+## __Output__
+![Screenshot 2023-04-11 152649 (1)](https://user-images.githubusercontent.com/113619312/234047820-8d7852e0-163a-4eb0-b352-24671e184cb6.png)
+
