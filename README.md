@@ -22,3 +22,11 @@ The addressof operator ( & ) is a unary operator that returns the address of its
 
 __2. Dereferencing Operator:__
 The dereference operator ( * ), also known as the indirection operator is a unary operator. It is used in pointer declaration and dereferencing.
+```
+data_type * pointer_name;
+```
+
+---
+
+## __Code__
+```
