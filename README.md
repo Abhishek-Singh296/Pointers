@@ -49,5 +49,5 @@ int main()
 ---
 
 ## __Output__
-![Screenshot 2023-04-11 152649 (1)](https://user-images.githubusercontent.com/113619312/234047820-8d7852e0-163a-4eb0-b352-24671e184cb6.png)
 
+![Screenshot 2023-04-11 155259](https://user-images.githubusercontent.com/113619312/234048633-3a709674-0b60-461e-af8f-4e225d87a982.png)
